@@ -1,0 +1,6 @@
+- path: iris
+  name: iris
+  type: table
+  description: ~
+  rows: 150
+  cols: 5
